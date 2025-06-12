@@ -1,0 +1,151 @@
+
+Solving with W=50T=50K=10S=1
+Rule-based heuristic solution time: 0.0013808 seconds
+Weapon assignments:
+Stage 1:
+  Weapon 1 -> Target 3 (VQP: 4.79754)
+  Weapon 2 -> Target 50 (VQP: 4.69051)
+  Weapon 3 -> Target 23 (VQP: 3.11537)
+  Weapon 4 -> Target 10 (VQP: 5.7942)
+  Weapon 5 -> Target 8 (VQP: 4.77993)
+  Weapon 6 -> Target 43 (VQP: 4.8158)
+  Weapon 7 -> Target 45 (VQP: 4.70149)
+  Weapon 8 -> Target 14 (VQP: 3.99586)
+  Weapon 9 -> Target 32 (VQP: 5.07548)
+  Weapon 10 -> Target 44 (VQP: 3.73525)
+  Weapon 11 -> Target 1 (VQP: 3.03242)
+  Weapon 12 -> Target 5 (VQP: 3.30235)
+  Weapon 13 -> Target 4 (VQP: 3.44999)
+  Weapon 15 -> Target 12 (VQP: 5.31567)
+  Weapon 16 -> Target 18 (VQP: 4.43914)
+  Weapon 17 -> Target 6 (VQP: 3.33636)
+  Weapon 18 -> Target 22 (VQP: 7.20121)
+  Weapon 19 -> Target 20 (VQP: 3.75993)
+  Weapon 20 -> Target 28 (VQP: 5.43645)
+  Weapon 21 -> Target 46 (VQP: 4.03771)
+  Weapon 22 -> Target 34 (VQP: 4.18277)
+  Weapon 23 -> Target 33 (VQP: 4.41475)
+  Weapon 24 -> Target 39 (VQP: 4.87684)
+  Weapon 25 -> Target 15 (VQP: 3.57328)
+  Weapon 26 -> Target 48 (VQP: 3.01416)
+  Weapon 27 -> Target 21 (VQP: 3.59103)
+  Weapon 28 -> Target 11 (VQP: 1.86612)
+  Weapon 29 -> Target 25 (VQP: 5.34014)
+  Weapon 30 -> Target 9 (VQP: 3.76711)
+  Weapon 31 -> Target 24 (VQP: 4.05337)
+  Weapon 32 -> Target 47 (VQP: 6.40361)
+  Weapon 33 -> Target 13 (VQP: 3.40898)
+  Weapon 34 -> Target 27 (VQP: 2.54092)
+  Weapon 35 -> Target 31 (VQP: 4.16341)
+  Weapon 36 -> Target 26 (VQP: 3.24726)
+  Weapon 37 -> Target 7 (VQP: 3.09505)
+  Weapon 38 -> Target 37 (VQP: 3.59463)
+  Weapon 39 -> Target 36 (VQP: 4.19882)
+  Weapon 40 -> Target 17 (VQP: 3.39444)
+  Weapon 41 -> Target 35 (VQP: 5.04853)
+  Weapon 42 -> Target 29 (VQP: 3.0473)
+  Weapon 43 -> Target 30 (VQP: 3.88409)
+  Weapon 44 -> Target 19 (VQP: 2.39904)
+  Weapon 45 -> Target 16 (VQP: 6.16264)
+  Weapon 46 -> Target 38 (VQP: 3.2684)
+  Weapon 47 -> Target 2 (VQP: 5.09325)
+  Weapon 48 -> Target 40 (VQP: 3.52364)
+  Weapon 49 -> Target 42 (VQP: 5.03792)
+  Weapon 50 -> Target 49 (VQP: 4.39096)
+
+Expected total value of surviving assets: 203.058 out of 407.037 (49.8868%)
+
+Solving with CPLEX...
+Version identifier: 22.1.2.0 | 2024-11-25 | 0edbb82fd
+CPXPARAM_Threads                                 4
+CPXPARAM_TimeLimit                               60
+Retaining values of one MIP start for possible repair.
+Tried aggregator 1 time.
+MIP Presolve eliminated 823 rows and 773 columns.
+Reduced MIP has 160 rows, 1787 columns, and 5291 nonzeros.
+Reduced MIP has 1727 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (4.60 ticks)
+Probing time = 0.00 sec. (2.49 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 160 rows, 1787 columns, and 5291 nonzeros.
+Reduced MIP has 1727 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (3.56 ticks)
+Probing time = 0.00 sec. (2.76 ticks)
+Clique table members: 100.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 4 threads.
+Root relaxation solution time = 0.02 sec. (11.80 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0      208.3678      208.3678      579    0.00%
+Elapsed time = 0.03 sec. (33.58 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.03 sec. (33.65 ticks)
+Parallel b&c, 4 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.03 sec. (33.65 ticks)
+Solution status: Optimal
+Objective value: 208.368
+CPLEX solution time: 0.0302991 seconds
+Weapon assignments:
+Stage 1:
+  Weapon 1 -> Target 17 (VQP: 3.56096)
+  Weapon 2 -> Target 37 (VQP: 3.57208)
+  Weapon 3 -> Target 49 (VQP: 4.77146)
+  Weapon 4 -> Target 45 (VQP: 4.62222)
+  Weapon 5 -> Target 3 (VQP: 4.75737)
+  Weapon 6 -> Target 20 (VQP: 3.99877)
+  Weapon 7 -> Target 39 (VQP: 5.66055)
+  Weapon 8 -> Target 40 (VQP: 3.44652)
+  Weapon 9 -> Target 32 (VQP: 5.07548)
+  Weapon 10 -> Target 47 (VQP: 10.7023)
+  Weapon 11 -> Target 30 (VQP: 3.99654)
+  Weapon 12 -> Target 28 (VQP: 7.3285)
+  Weapon 13 -> Target 21 (VQP: 5.94216)
+  Weapon 14 -> Target 18 (VQP: 6.47629)
+  Weapon 15 -> Target 12 (VQP: 5.31567)
+  Weapon 16 -> Target 6 (VQP: 3.15544)
+  Weapon 17 -> Target 14 (VQP: 4.48526)
+  Weapon 18 -> Target 22 (VQP: 7.20121)
+  Weapon 19 -> Target 9 (VQP: 4.14217)
+  Weapon 20 -> Target 42 (VQP: 5.01629)
+  Weapon 21 -> Target 19 (VQP: 2.38447)
+  Weapon 22 -> Target 7 (VQP: 3.15208)
+  Weapon 23 -> Target 33 (VQP: 4.41475)
+  Weapon 24 -> Target 15 (VQP: 3.51151)
+  Weapon 25 -> Target 31 (VQP: 6.52972)
+  Weapon 26 -> Target 50 (VQP: 4.85373)
+  Weapon 27 -> Target 4 (VQP: 3.35229)
+  Weapon 28 -> Target 43 (VQP: 4.91543)
+  Weapon 29 -> Target 29 (VQP: 3.08032)
+  Weapon 30 -> Target 8 (VQP: 9.87764)
+  Weapon 31 -> Target 10 (VQP: 6.69386)
+  Weapon 32 -> Target 44 (VQP: 3.85812)
+  Weapon 33 -> Target 13 (VQP: 3.40898)
+  Weapon 34 -> Target 34 (VQP: 4.9369)
+  Weapon 35 -> Target 24 (VQP: 3.99005)
+  Weapon 36 -> Target 26 (VQP: 3.24726)
+  Weapon 37 -> Target 16 (VQP: 6.74163)
+  Weapon 38 -> Target 41 (VQP: 14.7321)
+  Weapon 39 -> Target 25 (VQP: 5.51153)
+  Weapon 40 -> Target 46 (VQP: 4.03632)
+  Weapon 41 -> Target 35 (VQP: 5.04853)
+  Weapon 42 -> Target 23 (VQP: 3.10647)
+  Weapon 43 -> Target 11 (VQP: 1.83427)
+  Weapon 44 -> Target 27 (VQP: 2.55729)
+  Weapon 45 -> Target 1 (VQP: 3.19856)
+  Weapon 46 -> Target 38 (VQP: 3.2684)
+  Weapon 47 -> Target 2 (VQP: 5.09325)
+  Weapon 48 -> Target 48 (VQP: 2.98349)
+  Weapon 49 -> Target 36 (VQP: 4.4628)
+  Weapon 50 -> Target 5 (VQP: 3.26792)
+
+Expected total value of surviving assets: 203.058 out of 407.037 (49.8868%)
