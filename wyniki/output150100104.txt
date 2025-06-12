@@ -1,0 +1,876 @@
+
+Solving with W=150T=100K=10S=4
+Rule-based heuristic solution time: 0.207363 seconds
+Weapon assignments:
+Stage 1:
+  Weapon 2 -> Target 18 (VQP: 0.0150481)
+  Weapon 3 -> Target 94 (VQP: 0.0456633)
+  Weapon 4 -> Target 75 (VQP: 0.0444846)
+  Weapon 5 -> Target 38 (VQP: 0.0408967)
+  Weapon 8 -> Target 83 (VQP: 0.0187811)
+  Weapon 10 -> Target 17 (VQP: 0.0652893)
+  Weapon 11 -> Target 71 (VQP: 0.0498967)
+  Weapon 13 -> Target 5 (VQP: 0.0504031)
+  Weapon 14 -> Target 64 (VQP: 0.0321381)
+  Weapon 16 -> Target 16 (VQP: 0.0727993)
+  Weapon 17 -> Target 29 (VQP: 0.0275445)
+  Weapon 18 -> Target 47 (VQP: 0.0264934)
+  Weapon 19 -> Target 73 (VQP: 0.0122908)
+  Weapon 21 -> Target 72 (VQP: 0.00850418)
+  Weapon 22 -> Target 49 (VQP: 0.467183)
+  Weapon 23 -> Target 53 (VQP: 0.0121387)
+  Weapon 24 -> Target 8 (VQP: 0.00847733)
+  Weapon 25 -> Target 9 (VQP: 0.210748)
+  Weapon 27 -> Target 31 (VQP: 0.0811472)
+  Weapon 29 -> Target 42 (VQP: 0.00419578)
+  Weapon 30 -> Target 28 (VQP: 0.0146382)
+  Weapon 31 -> Target 37 (VQP: 0.0157547)
+  Weapon 32 -> Target 84 (VQP: 0.0186272)
+  Weapon 33 -> Target 19 (VQP: 0.115439)
+  Weapon 34 -> Target 66 (VQP: 0.00952391)
+  Weapon 35 -> Target 62 (VQP: 0.00951391)
+  Weapon 37 -> Target 56 (VQP: 0.0298772)
+  Weapon 38 -> Target 36 (VQP: 0.00543524)
+  Weapon 39 -> Target 57 (VQP: 0.0458361)
+  Weapon 40 -> Target 59 (VQP: 0.0536176)
+  Weapon 41 -> Target 2 (VQP: 0.0467485)
+  Weapon 42 -> Target 45 (VQP: 0.039066)
+  Weapon 43 -> Target 39 (VQP: 0.0645577)
+  Weapon 44 -> Target 90 (VQP: 0.0319487)
+  Weapon 45 -> Target 77 (VQP: 0.0507474)
+  Weapon 47 -> Target 34 (VQP: 0.195859)
+  Weapon 48 -> Target 1 (VQP: 0.0312406)
+  Weapon 51 -> Target 15 (VQP: 0.0100156)
+  Weapon 53 -> Target 98 (VQP: 0.0316716)
+  Weapon 56 -> Target 7 (VQP: 0.00618201)
+  Weapon 57 -> Target 89 (VQP: 0.0409084)
+  Weapon 59 -> Target 67 (VQP: 0.0372695)
+  Weapon 60 -> Target 13 (VQP: 0.00948884)
+  Weapon 62 -> Target 51 (VQP: 0.0537358)
+  Weapon 66 -> Target 92 (VQP: 0.0205936)
+  Weapon 70 -> Target 43 (VQP: 0.143751)
+  Weapon 73 -> Target 91 (VQP: 0.00667378)
+  Weapon 74 -> Target 97 (VQP: 0.10256)
+  Weapon 75 -> Target 14 (VQP: 0.0113295)
+  Weapon 77 -> Target 26 (VQP: 0.0724614)
+  Weapon 78 -> Target 12 (VQP: 0.0216671)
+  Weapon 79 -> Target 40 (VQP: 0.048878)
+  Weapon 80 -> Target 54 (VQP: 0.0366755)
+  Weapon 81 -> Target 96 (VQP: 0.0806785)
+  Weapon 82 -> Target 85 (VQP: 0.0287309)
+  Weapon 84 -> Target 82 (VQP: 0.044529)
+  Weapon 86 -> Target 27 (VQP: 0.105231)
+  Weapon 87 -> Target 61 (VQP: 0.0366306)
+  Weapon 89 -> Target 32 (VQP: 0.00970568)
+  Weapon 92 -> Target 11 (VQP: 0.032875)
+  Weapon 93 -> Target 81 (VQP: 0.00692142)
+  Weapon 94 -> Target 6 (VQP: 0.0324681)
+  Weapon 95 -> Target 74 (VQP: 0.0204575)
+  Weapon 96 -> Target 93 (VQP: 0.0129935)
+  Weapon 97 -> Target 87 (VQP: 0.0238296)
+  Weapon 98 -> Target 69 (VQP: 0.0880871)
+  Weapon 101 -> Target 3 (VQP: 0.104539)
+  Weapon 102 -> Target 80 (VQP: 0.0175834)
+  Weapon 103 -> Target 76 (VQP: 0.0302943)
+  Weapon 104 -> Target 70 (VQP: 0.0787108)
+  Weapon 106 -> Target 33 (VQP: 0.0539835)
+  Weapon 107 -> Target 21 (VQP: 0.0778547)
+  Weapon 108 -> Target 95 (VQP: 0.0128442)
+  Weapon 110 -> Target 20 (VQP: 0.0143291)
+  Weapon 111 -> Target 46 (VQP: 0.0183075)
+  Weapon 114 -> Target 58 (VQP: 0.0191356)
+  Weapon 115 -> Target 99 (VQP: 0.0460222)
+  Weapon 116 -> Target 79 (VQP: 0.00847086)
+  Weapon 117 -> Target 4 (VQP: 0.0372199)
+  Weapon 118 -> Target 24 (VQP: 0.0664189)
+  Weapon 121 -> Target 88 (VQP: 0.0145924)
+  Weapon 122 -> Target 30 (VQP: 0.0220264)
+  Weapon 125 -> Target 41 (VQP: 0.152413)
+  Weapon 127 -> Target 65 (VQP: 0.0214882)
+  Weapon 129 -> Target 25 (VQP: 0.0904482)
+  Weapon 130 -> Target 50 (VQP: 0.00873797)
+  Weapon 131 -> Target 23 (VQP: 0.307207)
+  Weapon 135 -> Target 44 (VQP: 0.235915)
+  Weapon 136 -> Target 22 (VQP: 0.0486327)
+  Weapon 138 -> Target 52 (VQP: 0.0625172)
+  Weapon 139 -> Target 35 (VQP: 0.00910348)
+  Weapon 140 -> Target 55 (VQP: 0.0448173)
+  Weapon 141 -> Target 100 (VQP: 0.0850666)
+  Weapon 142 -> Target 63 (VQP: 0.0802064)
+  Weapon 144 -> Target 78 (VQP: 0.00951037)
+  Weapon 145 -> Target 86 (VQP: 0.0429295)
+  Weapon 146 -> Target 48 (VQP: 0.00647862)
+  Weapon 147 -> Target 60 (VQP: 0.0494237)
+  Weapon 149 -> Target 68 (VQP: 0.0125042)
+  Weapon 150 -> Target 10 (VQP: 0.0199854)
+Stage 2:
+  Weapon 1 -> Target 82 (VQP: 0.0452223)
+  Weapon 2 -> Target 49 (VQP: 0.458247)
+  Weapon 3 -> Target 32 (VQP: 0.00968954)
+  Weapon 7 -> Target 35 (VQP: 0.00972145)
+  Weapon 8 -> Target 78 (VQP: 0.01287)
+  Weapon 9 -> Target 48 (VQP: 0.00635831)
+  Weapon 11 -> Target 41 (VQP: 0.153251)
+  Weapon 12 -> Target 72 (VQP: 0.0087893)
+  Weapon 13 -> Target 15 (VQP: 0.0133013)
+  Weapon 14 -> Target 51 (VQP: 0.0550222)
+  Weapon 15 -> Target 87 (VQP: 0.0229109)
+  Weapon 16 -> Target 42 (VQP: 0.00414911)
+  Weapon 17 -> Target 25 (VQP: 0.0916126)
+  Weapon 18 -> Target 19 (VQP: 0.10305)
+  Weapon 19 -> Target 34 (VQP: 0.141186)
+  Weapon 21 -> Target 54 (VQP: 0.0329129)
+  Weapon 23 -> Target 30 (VQP: 0.0215664)
+  Weapon 24 -> Target 44 (VQP: 0.184064)
+  Weapon 26 -> Target 95 (VQP: 0.0122141)
+  Weapon 27 -> Target 11 (VQP: 0.0416827)
+  Weapon 28 -> Target 18 (VQP: 0.0168644)
+  Weapon 29 -> Target 92 (VQP: 0.0205455)
+  Weapon 30 -> Target 100 (VQP: 0.0875494)
+  Weapon 31 -> Target 27 (VQP: 0.114224)
+  Weapon 33 -> Target 6 (VQP: 0.0314207)
+  Weapon 35 -> Target 61 (VQP: 0.0361254)
+  Weapon 37 -> Target 40 (VQP: 0.0393037)
+  Weapon 38 -> Target 62 (VQP: 0.0085187)
+  Weapon 39 -> Target 8 (VQP: 0.0078733)
+  Weapon 40 -> Target 24 (VQP: 0.0592078)
+  Weapon 41 -> Target 66 (VQP: 0.00942609)
+  Weapon 42 -> Target 10 (VQP: 0.0162541)
+  Weapon 43 -> Target 4 (VQP: 0.037795)
+  Weapon 45 -> Target 60 (VQP: 0.0462851)
+  Weapon 46 -> Target 45 (VQP: 0.0446258)
+  Weapon 48 -> Target 93 (VQP: 0.0133319)
+  Weapon 51 -> Target 21 (VQP: 0.0777279)
+  Weapon 53 -> Target 63 (VQP: 0.078614)
+  Weapon 54 -> Target 84 (VQP: 0.0184113)
+  Weapon 56 -> Target 53 (VQP: 0.0130856)
+  Weapon 57 -> Target 28 (VQP: 0.0128747)
+  Weapon 58 -> Target 74 (VQP: 0.0215706)
+  Weapon 59 -> Target 7 (VQP: 0.0066062)
+  Weapon 60 -> Target 36 (VQP: 0.00534908)
+  Weapon 61 -> Target 9 (VQP: 0.172536)
+  Weapon 62 -> Target 64 (VQP: 0.0328685)
+  Weapon 63 -> Target 83 (VQP: 0.0188826)
+  Weapon 64 -> Target 33 (VQP: 0.0520635)
+  Weapon 65 -> Target 23 (VQP: 0.305795)
+  Weapon 66 -> Target 52 (VQP: 0.0599502)
+  Weapon 67 -> Target 65 (VQP: 0.0221647)
+  Weapon 71 -> Target 96 (VQP: 0.0700582)
+  Weapon 72 -> Target 57 (VQP: 0.0559676)
+  Weapon 74 -> Target 14 (VQP: 0.0111831)
+  Weapon 75 -> Target 71 (VQP: 0.0457236)
+  Weapon 76 -> Target 55 (VQP: 0.0412893)
+  Weapon 81 -> Target 5 (VQP: 0.0500196)
+  Weapon 82 -> Target 58 (VQP: 0.0191457)
+  Weapon 84 -> Target 89 (VQP: 0.034603)
+  Weapon 85 -> Target 69 (VQP: 0.0887414)
+  Weapon 92 -> Target 81 (VQP: 0.00696344)
+  Weapon 94 -> Target 67 (VQP: 0.0420579)
+  Weapon 95 -> Target 79 (VQP: 0.00853509)
+  Weapon 96 -> Target 16 (VQP: 0.0876759)
+  Weapon 100 -> Target 77 (VQP: 0.0577171)
+  Weapon 101 -> Target 90 (VQP: 0.0342102)
+  Weapon 102 -> Target 56 (VQP: 0.0290813)
+  Weapon 103 -> Target 2 (VQP: 0.0453528)
+  Weapon 104 -> Target 91 (VQP: 0.00657174)
+  Weapon 108 -> Target 12 (VQP: 0.0208411)
+  Weapon 109 -> Target 68 (VQP: 0.0127708)
+  Weapon 110 -> Target 98 (VQP: 0.0297746)
+  Weapon 112 -> Target 26 (VQP: 0.0883054)
+  Weapon 113 -> Target 97 (VQP: 0.0854364)
+  Weapon 117 -> Target 43 (VQP: 0.121824)
+  Weapon 119 -> Target 46 (VQP: 0.0184622)
+  Weapon 120 -> Target 99 (VQP: 0.0472425)
+  Weapon 121 -> Target 76 (VQP: 0.0359046)
+  Weapon 122 -> Target 38 (VQP: 0.0308229)
+  Weapon 123 -> Target 17 (VQP: 0.0575968)
+  Weapon 125 -> Target 86 (VQP: 0.0378304)
+  Weapon 126 -> Target 20 (VQP: 0.0146327)
+  Weapon 127 -> Target 80 (VQP: 0.0153896)
+  Weapon 128 -> Target 47 (VQP: 0.0252718)
+  Weapon 129 -> Target 29 (VQP: 0.0288359)
+  Weapon 131 -> Target 75 (VQP: 0.0412008)
+  Weapon 132 -> Target 37 (VQP: 0.012272)
+  Weapon 133 -> Target 13 (VQP: 0.00973646)
+  Weapon 135 -> Target 3 (VQP: 0.0971995)
+  Weapon 137 -> Target 22 (VQP: 0.0443567)
+  Weapon 138 -> Target 73 (VQP: 0.0117667)
+  Weapon 139 -> Target 1 (VQP: 0.0191448)
+  Weapon 140 -> Target 31 (VQP: 0.07843)
+  Weapon 141 -> Target 39 (VQP: 0.0601065)
+  Weapon 142 -> Target 59 (VQP: 0.0556845)
+  Weapon 143 -> Target 94 (VQP: 0.03868)
+  Weapon 144 -> Target 88 (VQP: 0.0135241)
+  Weapon 147 -> Target 50 (VQP: 0.0087196)
+  Weapon 148 -> Target 85 (VQP: 0.0204492)
+Stage 3:
+  Weapon 1 -> Target 40 (VQP: 0.0358891)
+  Weapon 2 -> Target 37 (VQP: 0.0139189)
+  Weapon 5 -> Target 26 (VQP: 0.0918946)
+  Weapon 6 -> Target 64 (VQP: 0.0330216)
+  Weapon 7 -> Target 99 (VQP: 0.0435506)
+  Weapon 8 -> Target 22 (VQP: 0.0454316)
+  Weapon 9 -> Target 46 (VQP: 0.0143089)
+  Weapon 12 -> Target 61 (VQP: 0.0331485)
+  Weapon 14 -> Target 15 (VQP: 0.0120115)
+  Weapon 16 -> Target 25 (VQP: 0.0559544)
+  Weapon 19 -> Target 21 (VQP: 0.0473243)
+  Weapon 20 -> Target 82 (VQP: 0.0453174)
+  Weapon 26 -> Target 66 (VQP: 0.00921902)
+  Weapon 29 -> Target 4 (VQP: 0.0305997)
+  Weapon 30 -> Target 51 (VQP: 0.054394)
+  Weapon 32 -> Target 48 (VQP: 0.00650543)
+  Weapon 33 -> Target 12 (VQP: 0.021449)
+  Weapon 34 -> Target 9 (VQP: 0.182934)
+  Weapon 36 -> Target 72 (VQP: 0.00894879)
+  Weapon 37 -> Target 53 (VQP: 0.012885)
+  Weapon 38 -> Target 63 (VQP: 0.0622763)
+  Weapon 39 -> Target 27 (VQP: 0.0900481)
+  Weapon 40 -> Target 95 (VQP: 0.0117758)
+  Weapon 41 -> Target 2 (VQP: 0.046257)
+  Weapon 42 -> Target 84 (VQP: 0.0183248)
+  Weapon 43 -> Target 16 (VQP: 0.0875412)
+  Weapon 44 -> Target 39 (VQP: 0.0647845)
+  Weapon 47 -> Target 86 (VQP: 0.044706)
+  Weapon 48 -> Target 75 (VQP: 0.0449537)
+  Weapon 49 -> Target 98 (VQP: 0.0330725)
+  Weapon 50 -> Target 7 (VQP: 0.0068151)
+  Weapon 51 -> Target 20 (VQP: 0.0143847)
+  Weapon 52 -> Target 11 (VQP: 0.0417449)
+  Weapon 54 -> Target 45 (VQP: 0.0430294)
+  Weapon 55 -> Target 3 (VQP: 0.0978653)
+  Weapon 56 -> Target 35 (VQP: 0.0093011)
+  Weapon 58 -> Target 79 (VQP: 0.00855664)
+  Weapon 62 -> Target 62 (VQP: 0.0095952)
+  Weapon 63 -> Target 5 (VQP: 0.0248312)
+  Weapon 64 -> Target 17 (VQP: 0.0645143)
+  Weapon 66 -> Target 78 (VQP: 0.0129848)
+  Weapon 68 -> Target 69 (VQP: 0.0841597)
+  Weapon 69 -> Target 59 (VQP: 0.0553937)
+  Weapon 71 -> Target 24 (VQP: 0.0481585)
+  Weapon 72 -> Target 80 (VQP: 0.0169216)
+  Weapon 73 -> Target 47 (VQP: 0.0290491)
+  Weapon 76 -> Target 73 (VQP: 0.012335)
+  Weapon 77 -> Target 52 (VQP: 0.0614277)
+  Weapon 78 -> Target 100 (VQP: 0.0885073)
+  Weapon 79 -> Target 43 (VQP: 0.142562)
+  Weapon 82 -> Target 81 (VQP: 0.00698389)
+  Weapon 83 -> Target 50 (VQP: 0.00857765)
+  Weapon 84 -> Target 83 (VQP: 0.0178929)
+  Weapon 87 -> Target 31 (VQP: 0.0760086)
+  Weapon 88 -> Target 14 (VQP: 0.0113623)
+  Weapon 89 -> Target 41 (VQP: 0.107881)
+  Weapon 90 -> Target 89 (VQP: 0.0407697)
+  Weapon 91 -> Target 28 (VQP: 0.0149405)
+  Weapon 92 -> Target 10 (VQP: 0.019777)
+  Weapon 93 -> Target 23 (VQP: 0.191539)
+  Weapon 94 -> Target 74 (VQP: 0.021553)
+  Weapon 97 -> Target 44 (VQP: 0.230361)
+  Weapon 98 -> Target 6 (VQP: 0.0327102)
+  Weapon 99 -> Target 18 (VQP: 0.0150967)
+  Weapon 100 -> Target 67 (VQP: 0.0413216)
+  Weapon 102 -> Target 92 (VQP: 0.0167043)
+  Weapon 103 -> Target 91 (VQP: 0.0066933)
+  Weapon 105 -> Target 13 (VQP: 0.00965784)
+  Weapon 106 -> Target 87 (VQP: 0.0174359)
+  Weapon 107 -> Target 30 (VQP: 0.0225899)
+  Weapon 108 -> Target 36 (VQP: 0.00538304)
+  Weapon 109 -> Target 60 (VQP: 0.0481779)
+  Weapon 111 -> Target 96 (VQP: 0.0821949)
+  Weapon 115 -> Target 70 (VQP: 0.0775898)
+  Weapon 116 -> Target 8 (VQP: 0.00839702)
+  Weapon 119 -> Target 29 (VQP: 0.0273369)
+  Weapon 121 -> Target 19 (VQP: 0.111032)
+  Weapon 122 -> Target 58 (VQP: 0.0172693)
+  Weapon 123 -> Target 65 (VQP: 0.0220918)
+  Weapon 124 -> Target 76 (VQP: 0.0360148)
+  Weapon 126 -> Target 32 (VQP: 0.0089344)
+  Weapon 127 -> Target 90 (VQP: 0.0279719)
+  Weapon 128 -> Target 93 (VQP: 0.0135804)
+  Weapon 129 -> Target 71 (VQP: 0.0348884)
+  Weapon 131 -> Target 68 (VQP: 0.011223)
+  Weapon 132 -> Target 88 (VQP: 0.0133771)
+  Weapon 133 -> Target 54 (VQP: 0.0329571)
+  Weapon 134 -> Target 38 (VQP: 0.0401233)
+  Weapon 135 -> Target 85 (VQP: 0.0257714)
+  Weapon 136 -> Target 94 (VQP: 0.0384657)
+  Weapon 137 -> Target 97 (VQP: 0.100969)
+  Weapon 138 -> Target 33 (VQP: 0.0438197)
+  Weapon 142 -> Target 56 (VQP: 0.0303836)
+  Weapon 143 -> Target 1 (VQP: 0.0303558)
+  Weapon 144 -> Target 77 (VQP: 0.0581943)
+  Weapon 145 -> Target 55 (VQP: 0.0427909)
+  Weapon 146 -> Target 57 (VQP: 0.0492739)
+  Weapon 148 -> Target 42 (VQP: 0.00420454)
+  Weapon 149 -> Target 34 (VQP: 0.187331)
+Stage 4:
+  Weapon 2 -> Target 18 (VQP: 0.0167526)
+  Weapon 3 -> Target 15 (VQP: 0.0135311)
+  Weapon 7 -> Target 12 (VQP: 0.0143617)
+  Weapon 9 -> Target 72 (VQP: 0.00798524)
+  Weapon 14 -> Target 34 (VQP: 0.102292)
+  Weapon 15 -> Target 46 (VQP: 0.0168959)
+  Weapon 16 -> Target 80 (VQP: 0.0170465)
+  Weapon 17 -> Target 85 (VQP: 0.024926)
+  Weapon 18 -> Target 81 (VQP: 0.00642958)
+  Weapon 19 -> Target 66 (VQP: 0.00807597)
+  Weapon 21 -> Target 91 (VQP: 0.00677915)
+  Weapon 23 -> Target 61 (VQP: 0.0192055)
+  Weapon 26 -> Target 3 (VQP: 0.050029)
+  Weapon 30 -> Target 47 (VQP: 0.0193189)
+  Weapon 31 -> Target 92 (VQP: 0.0191503)
+  Weapon 32 -> Target 87 (VQP: 0.0202952)
+  Weapon 33 -> Target 86 (VQP: 0.0268719)
+  Weapon 34 -> Target 60 (VQP: 0.0322909)
+  Weapon 37 -> Target 35 (VQP: 0.00787485)
+  Weapon 38 -> Target 95 (VQP: 0.0114656)
+  Weapon 39 -> Target 70 (VQP: 0.0762841)
+  Weapon 41 -> Target 54 (VQP: 0.0338585)
+  Weapon 42 -> Target 36 (VQP: 0.00519632)
+  Weapon 48 -> Target 83 (VQP: 0.0166578)
+  Weapon 49 -> Target 50 (VQP: 0.00822318)
+  Weapon 51 -> Target 57 (VQP: 0.0330708)
+  Weapon 53 -> Target 90 (VQP: 0.0330115)
+  Weapon 57 -> Target 22 (VQP: 0.022253)
+  Weapon 60 -> Target 99 (VQP: 0.0309489)
+  Weapon 62 -> Target 94 (VQP: 0.0449514)
+  Weapon 63 -> Target 42 (VQP: 0.00421321)
+  Weapon 64 -> Target 38 (VQP: 0.0329783)
+  Weapon 68 -> Target 89 (VQP: 0.0313158)
+  Weapon 71 -> Target 4 (VQP: 0.0334873)
+  Weapon 73 -> Target 13 (VQP: 0.00944224)
+  Weapon 75 -> Target 21 (VQP: 0.0449215)
+  Weapon 76 -> Target 58 (VQP: 0.0165878)
+  Weapon 77 -> Target 40 (VQP: 0.0485011)
+  Weapon 82 -> Target 32 (VQP: 0.00957025)
+  Weapon 87 -> Target 14 (VQP: 0.0110779)
+  Weapon 89 -> Target 71 (VQP: 0.041764)
+  Weapon 92 -> Target 74 (VQP: 0.0189552)
+  Weapon 93 -> Target 63 (VQP: 0.0557477)
+  Weapon 94 -> Target 76 (VQP: 0.0197215)
+  Weapon 96 -> Target 7 (VQP: 0.00649914)
+  Weapon 97 -> Target 1 (VQP: 0.0293068)
+  Weapon 98 -> Target 62 (VQP: 0.00979464)
+  Weapon 99 -> Target 30 (VQP: 0.0200205)
+  Weapon 102 -> Target 48 (VQP: 0.00629824)
+  Weapon 103 -> Target 64 (VQP: 0.0220568)
+  Weapon 104 -> Target 5 (VQP: 0.0380333)
+  Weapon 106 -> Target 11 (VQP: 0.026914)
+  Weapon 110 -> Target 88 (VQP: 0.0141572)
+  Weapon 112 -> Target 10 (VQP: 0.0196817)
+  Weapon 115 -> Target 73 (VQP: 0.0123996)
+  Weapon 118 -> Target 78 (VQP: 0.0129198)
+  Weapon 125 -> Target 68 (VQP: 0.0123542)
+  Weapon 126 -> Target 37 (VQP: 0.014144)
+  Weapon 127 -> Target 93 (VQP: 0.0127902)
+  Weapon 128 -> Target 20 (VQP: 0.0150281)
+  Weapon 129 -> Target 8 (VQP: 0.00835047)
+  Weapon 132 -> Target 84 (VQP: 0.0148506)
+  Weapon 136 -> Target 33 (VQP: 0.0406379)
+  Weapon 137 -> Target 28 (VQP: 0.0131066)
+  Weapon 138 -> Target 24 (VQP: 0.0591594)
+  Weapon 139 -> Target 29 (VQP: 0.0207025)
+  Weapon 142 -> Target 79 (VQP: 0.00815871)
+  Weapon 144 -> Target 98 (VQP: 0.0226464)
+  Weapon 148 -> Target 53 (VQP: 0.0124605)
+
+Expected total value of surviving assets: 507.71 out of 513.585 (98.8561%)
+
+Solving with CPLEX...
+Version identifier: 22.1.2.0 | 2024-11-25 | 0edbb82fd
+CPXPARAM_Threads                                 4
+CPXPARAM_TimeLimit                               60
+Retaining values of one MIP start for possible repair.
+Tried aggregator 1 time.
+MIP Presolve eliminated 30160 rows and 30002 columns.
+Reduced MIP has 1102 rows, 30108 columns, and 107236 nonzeros.
+Reduced MIP has 29998 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.06 sec. (83.48 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 1102 rows, 30108 columns, and 107236 nonzeros.
+Reduced MIP has 29998 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.05 sec. (56.56 ticks)
+Probing time = 0.00 sec. (9.52 ticks)
+Clique table members: 1429.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 4 threads.
+Root relaxation solution time = 0.02 sec. (30.51 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0      513.5853   135                    513.5853      353         
+      0     0      513.5853   365                   Cuts: 375     1280         
+      0     0      513.5853   406                   Cuts: 221     2941         
+*     0+    0                          183.0508      513.5853           180.57%
+*     0+    0                          256.6191      513.5853           100.14%
+*     0+    0                          274.8801      513.5853            86.84%
+*     0+    0                          287.3729      513.5853            78.72%
+*     0+    0                          314.7678      513.5853            63.16%
+*     0+    0                          316.8359      513.5853            62.10%
+*     0+    0                          318.4075      513.5853            61.30%
+*     0+    0                          322.3582      513.5853            59.32%
+*     0+    0                          322.6852      513.5853            59.16%
+      0     0        cutoff            322.6852      513.5853     2941   59.16%
+Repair heuristic found nothing.
+Detecting symmetries...
+      0     2      513.5853   406      322.6852      513.5853     2941   59.16%
+Elapsed time = 2.92 sec. (5761.30 ticks, tree = 0.02 MB, solutions = 9)
+     20    22      481.4151   250      322.6852      513.5853     3382   59.16%
+*    24+    2                          322.9066      513.5853            59.05%
+     50    52      508.1003   268      322.9066      513.5853     5092   59.05%
+    101    94      507.8397   193      322.9066      513.5853     5532   59.05%
+*   110+    1                          337.4897      513.5853            52.18%
+*   113+    1                          352.5389      513.5853            45.68%
+*   169+    3                          392.8296      513.5853            30.74%
+    180   168      507.8397   185      392.8296      513.5853     6059   30.74%
+*   188+    1                          396.8677      513.5853            29.41%
+*   196+    3                          398.4996      513.5853            28.88%
+*   210+    1                          403.0515      513.5853            27.42%
+*   233+    1                          404.0148      513.5853            27.12%
+*   240+    1                          408.0330      513.5853            25.87%
+*   248+    3                          415.1893      513.5853            23.70%
+    252   233      477.3007   156      415.1893      513.5853     6421   23.70%
+    355   312      473.3289   145      415.1893      513.5853     6928   23.70%
+*   407+  323                          418.2197      513.5853            22.80%
+*   410+  323                          428.1375      513.5853            19.96%
+*   411+  323                          448.1926      513.5853            14.59%
+*   414+  323                          448.3103      513.5853            14.56%
+    478   389      477.3007   146      448.3103      513.5853     8660   14.56%
+*   571+  506                          453.7793      513.5853            13.18%
+*   577+  506                          465.7240      513.5853            10.28%
+    636   541      493.3920   161      465.7240      513.5853    10141   10.28%
+    806   710      507.7087   143      465.7240      513.5853    11348   10.28%
+*  1184+ 1077                          466.4983      513.5853            10.09%
+*  1187+ 1077                          467.3224      513.5853             9.90%
+*  1204+ 1157                          468.2861      513.5853             9.67%
+*  1208+ 1122                          469.1116      513.5853             9.48%
+*  1212+ 1157                          473.3400      513.5853             8.50%
+*  1214+ 1157                          476.9700      513.5853             7.68%
+*  1215+ 1157                          478.3871      513.5853             7.36%
+*  1215+ 1157                          479.2867      513.5853             7.16%
+*  1216+ 1122                          479.7972      513.5853             7.04%
+   1422   955      513.4636   158      479.7972      513.5853    15240    7.04%
+Elapsed time = 4.75 sec. (9029.81 ticks, tree = 19.50 MB, solutions = 39)
+*  1547+  988                          482.2069      513.5853             6.51%
+*  1553+  988                          491.9769      513.5853             4.39%
+*  1555+  988                          492.1417      513.5853             4.36%
+*  1762+ 1091                          492.1417      513.5853             4.36%
+   2015  1387      509.7112   151      492.1417      513.5853    19305    4.36%
+*  2370+ 1558                          492.3974      513.5853             4.30%
+   2683  1723      513.1607   139      492.3974      513.5853    22034    4.30%
+*  2957+ 1877                          492.6046      513.5853             4.26%
+*  2963+ 1877                          492.6124      513.5853             4.26%
+   3542  2301    infeasible            492.6124      513.5853    25711    4.26%
+*  3607+ 2378                          492.7287      513.5853             4.23%
+   4026  2521      510.7525   123      492.7287      513.5853    26861    4.23%
+
+Performing restart 1
+
+Repeating presolve.
+Tried aggregator 1 time.
+MIP Presolve eliminated 0 rows and 14 columns.
+Reduced MIP has 1102 rows, 30094 columns, and 107185 nonzeros.
+Reduced MIP has 29984 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (47.01 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 1102 rows, 30094 columns, and 107185 nonzeros.
+Reduced MIP has 29984 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.05 sec. (58.43 ticks)
+Represolve time = 0.30 sec. (364.71 ticks)
+*  4028+    0                          495.6495      513.5853             3.62%
+   4028     0      513.5853   450      495.6495     Cuts: 375    31802    3.62%
+*  4028+    0                          495.7082      513.5853             3.61%
+   4028     0      513.5853   547      495.7082     Cuts: 279    35453    3.61%
+   4028     0      513.5853   498      495.7082     Cuts: 255    37783    3.61%
+*  4028+    0                          498.0096      513.5853             3.13%
+   4028     0      513.5853   524      498.0096     Cuts: 223    41028    3.13%
+   4028     0      513.5853   387      498.0096     Cuts: 218    43364    3.13%
+   4028     0      513.5853   392      498.0096     Cuts: 201    44552    3.13%
+*  4028+    0                          499.6873      513.5853             2.78%
+*  4028+    0                          500.2529      513.5853             2.67%
+   4028     2      513.5853   212      500.2529      513.5853    44608    2.67%
+   4138    93      511.0141   154      500.2529      513.5853    45652    2.67%
+   4421   243      502.7726   144      500.2529      513.5853    48041    2.67%
+   4952   412      501.7412   134      500.2529      513.5853    49874    2.67%
+   5348   466      501.2148   124      500.2529      513.5853    51389    2.67%
+   5626   690      513.5610   147      500.2529      513.5853    53161    2.67%
+Elapsed time = 17.28 sec. (32123.24 ticks, tree = 12.58 MB, solutions = 52)
+   6098  1056    infeasible            500.2529      513.5853    55907    2.67%
+   6622  1407      510.3340   153      500.2529      513.5853    58995    2.67%
+   7207  1954      505.8401   132      500.2529      513.5853    63260    2.67%
+   7748  2306      510.1156   121      500.2529      513.5853    67039    2.67%
+   8433  2794      500.2997   106      500.2529      513.5853    70477    2.67%
+   9205  3325      500.9219   111      500.2529      513.5853    74607    2.67%
+   9805  3634      500.7642   111      500.2529      513.5853    76344    2.67%
+  10634  4377      502.7463   139      500.2529      513.5853    80190    2.67%
+  11040  4764      501.1982   148      500.2529      513.5853    82854    2.67%
+  11522  5054      502.3115   158      500.2529      513.5853    89857    2.67%
+Elapsed time = 22.91 sec. (41670.06 ticks, tree = 102.26 MB, solutions = 52)
+  11948  5333      506.3564   174      500.2529      513.5853    93963    2.67%
+  12479  5675      507.7437   167      500.2529      513.5853    98861    2.67%
+  12856  6045      507.9617   167      500.2529      513.5853   103070    2.67%
+  13366  6395      501.2588   167      500.2529      513.5853   108087    2.67%
+  13600  6557      507.6854   218      500.2529      513.5853   110777    2.67%
+  14283  7054      500.3839   138      500.2529      513.5853   115265    2.67%
+  14794  7483      512.6220   166      500.2529      513.5853   121537    2.67%
+  15451  7933      510.5153   221      500.2529      513.5853   126746    2.67%
+  15832  8455      510.4717   161      500.2529      513.5853   132624    2.67%
+  16440  8915      512.8097   198      500.2529      513.5853   136517    2.67%
+Elapsed time = 28.95 sec. (51227.22 ticks, tree = 186.35 MB, solutions = 52)
+  17164  9727      505.5537   212      500.2529      513.5853   143728    2.67%
+* 17299+ 9821                          500.2555      513.5853             2.66%
+* 17306+ 9821                          500.3772      513.5853             2.64%
+* 17314+ 9821                          500.4081      513.5853             2.63%
+* 17692+ 9679                          500.4636      513.5853             2.62%
+* 17704+ 9975                          500.5831      513.5853             2.60%
+* 17781+ 9837                          500.6993      513.5853             2.57%
+* 17784+ 9837                          501.3271      513.5853             2.45%
+  17874  9733      509.3664   204      501.3271      513.5853   149577    2.45%
+  18028  9631      505.2154   148      501.3271      513.5853   146311    2.45%
+* 18129+ 9008                          502.0434      513.5853             2.30%
+  18129  9084      509.3664   196      502.0434      513.5853   151759    2.30%
+* 18136+ 9008                          502.9167      513.5853             2.12%
+* 18145+ 9008                          503.4694      513.5853             2.01%
+* 18151+ 9008                          504.2765      513.5853             1.85%
+* 18172+ 9008                          504.3508      513.5853             1.83%
+  18468  7352      506.7706   200      504.3508      513.5853   154686    1.83%
+  18813  7733      506.3487   140      504.3508      513.5853   157695    1.83%
+  19303  8065      509.4776   162      504.3508      513.5853   161767    1.83%
+* 19627+ 7261                          504.3997      513.5853             1.82%
+* 19635+ 7261                          505.6018      513.5853             1.58%
+  19692  8463      512.6586   205      505.6018      513.5853   166503    1.58%
+* 19827+ 7944                          506.6223      513.5853             1.37%
+* 19831+ 7944                          506.6943      513.5853             1.36%
+* 19837+ 7944                          506.8787      513.5853             1.32%
+  20339  7098      510.4387   224      506.8787      513.5853   171483    1.32%
+  21116  7863      509.4751   180      506.8787      513.5853   179456    1.32%
+Elapsed time = 34.81 sec. (61260.09 ticks, tree = 166.97 MB, solutions = 72)
+  21889  8302      507.7675   141      506.8787      513.5853   182853    1.32%
+  22494  9181      507.3851   148      506.8787      513.5853   192321    1.32%
+  22875  9380      512.8092   218      506.8787      513.5853   194840    1.32%
+  23647 10006      507.8236   179      506.8787      513.5853   200636    1.32%
+  24522 10585      507.7208   171      506.8787      513.5853   208362    1.32%
+  25395 11154      512.6906   132      506.8787      513.5853   213164    1.32%
+  26340 11859      508.8394   163      506.8787      513.5853   218138    1.32%
+  27037 12389    infeasible            506.8787      513.5853   224102    1.32%
+* 27299+12966                          507.0044      513.5853             1.30%
+* 27305+12820                          507.1020      513.5853             1.28%
+  27344 13018      508.3638   167      507.1020      513.5853   231617    1.28%
+* 27348+12966                          507.4379      513.5853             1.21%
+* 27356+12966                          507.4398      513.5853             1.21%
+* 27363+12966                          507.4471      513.5853             1.21%
+* 27368+12966                          507.4623      513.5853             1.21%
+* 27375+12966                          507.5549      513.5853             1.19%
+* 27386+12966                          507.5755      513.5853             1.18%
+* 27657+12966                          507.8621      513.5853             1.13%
+* 27664+12966                          507.9450      513.5853             1.11%
+* 27672+12966                          507.9699      513.5853             1.11%
+* 27685+12966                          508.0724      513.5853             1.09%
+* 27698+12966                          508.1041      513.5853             1.08%
+  27712 13184      507.8474   216      508.1041      513.5853   234153    1.08%
+Elapsed time = 41.30 sec. (70820.32 ticks, tree = 294.33 MB, solutions = 72)
+* 27936+12966                          508.2466      513.5853             1.05%
+* 27945+12966                          508.3038      513.5853             1.04%
+* 28004+12966                          508.3259      513.5853             1.03%
+  28106 13634      508.4170   188      508.3259      513.5853   237021    1.03%
+* 28130+12966                          508.6287      513.5853             0.97%
+* 28147+12966                          508.6441      513.5853             0.97%
+* 28210+12966                          508.6665      513.5853             0.97%
+  28569 13914      508.5395   175      508.6665      513.5853   239830    0.97%
+* 29000+12966                          508.7064      513.5853             0.96%
+* 29011+12966                          508.7331      513.5853             0.95%
+* 29024+12966                          508.8856      513.5853             0.92%
+* 29036+12966                          509.0967      513.5853             0.88%
+* 29066+12966                          509.1065      513.5853             0.88%
+* 29077+12966                          509.1336      513.5853             0.87%
+* 29086+12966                          509.2246      513.5853             0.86%
+  29086 14482      507.5818   124      509.2246      513.5853   242889    0.86%
+* 29097+12966                          509.2800      513.5853             0.85%
+* 29104+12966                          509.3220      513.5853             0.84%
+* 29111+12966                          509.3853      513.5853             0.82%
+* 29205+12966                          509.3973      513.5853             0.82%
+* 29253+12966                          509.5010      513.5853             0.80%
+  29340 14817      507.4746   165      509.5010      513.5853   246226    0.80%
+* 29425+12966                          509.5461      513.5853             0.79%
+* 29432+12966                          510.0059      513.5853             0.70%
+* 29440+12966                          510.0121      513.5853             0.70%
+  29609 15106      512.5615   145      510.0121      513.5853   249680    0.70%
+  30011 15513      508.9967   168      510.0121      513.5853   252743    0.70%
+  30442 15784      507.2504   192      510.0121      513.5853   254990    0.70%
+  30683 16135      509.2911   239      510.0121      513.5853   258052    0.70%
+  31037 16413      509.2674   166      510.0121      513.5853   260233    0.70%
+  31383 16668      510.6253   231      510.0121      513.5853   263023    0.70%
+Elapsed time = 48.31 sec. (80370.68 ticks, tree = 375.14 MB, solutions = 72)
+  31853 17077      509.6515   181      510.0121      513.5853   266678    0.70%
+  32243 17524      511.2962   185      510.0121      513.5853   269593    0.70%
+  32540 17916        cutoff            510.0121      513.5853   273277    0.70%
+* 32655+12966                          510.0354      513.5853             0.70%
+* 32703+12966                          510.1309      513.5853             0.68%
+* 32753+12966                          510.1359      513.5853             0.68%
+* 32808+12966                          510.2360      513.5853             0.66%
+* 32873+12966                          510.2372      513.5853             0.66%
+* 32902+12966                          510.2567      513.5853             0.65%
+  32925 18212      510.8560   195      510.2567      513.5853   276259    0.65%
+  33275 18560      508.9285   187      510.2567      513.5853   279752    0.65%
+  33508 18858      510.6547   228      510.2567      513.5853   282499    0.65%
+  33971 19314      511.5537   184      510.2567      513.5853   285974    0.65%
+  34397 19629      508.8770   169      510.2567      513.5853   288196    0.65%
+Starting limited solution polishing.
+  34620 19980      507.3535   134      510.2567      513.5853   290816    0.65%
+  34983 18346      513.2256   157      510.2567      513.5853   291524    0.65%
+Elapsed time = 55.70 sec. (89976.95 ticks, tree = 415.21 MB, solutions = 85)
+  35258 17328      511.9854   145      510.2567      513.5853   294334    0.65%
+  35456 16322      511.9555   126      510.2567      513.5853   294955    0.65%
+
+Performing restart 2
+
+Repeating presolve.
+Tried aggregator 1 time.
+MIP Presolve eliminated 11 rows and 13395 columns.
+Reduced MIP has 1091 rows, 16699 columns, and 57437 nonzeros.
+Reduced MIP has 16589 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.05 sec. (35.25 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 0 rows and 3289 columns.
+Reduced MIP has 1091 rows, 13410 columns, and 47570 nonzeros.
+Reduced MIP has 13300 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (23.78 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 1091 rows, 13410 columns, and 47570 nonzeros.
+Reduced MIP has 13300 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (27.57 ticks)
+Represolve time = 0.59 sec. (554.78 ticks)
+* 35459+    0                          510.2696      513.5853             0.65%
+  35459     0      513.5853   455      510.2696     Cuts: 372   299382    0.65%
+  35459     0      513.5853   445      510.2696     Cuts: 262   300680    0.65%
+
+GUB cover cuts applied:  139
+Clique cuts applied:  34
+Cover cuts applied:  39
+Implied bound cuts applied:  53
+Flow cuts applied:  39
+Mixed integer rounding cuts applied:  78
+Zero-half cuts applied:  40
+Gomory fractional cuts applied:  25
+
+Root node processing (before b&c):
+  Real time             =    2.98 sec. (5806.68 ticks)
+Parallel b&c, 4 threads:
+  Real time             =   57.12 sec. (89815.97 ticks)
+  Sync time (average)   =    4.61 sec.
+  Wait time (average)   =    0.02 sec.
+                          ------------
+Total (root+branch&cut) =   60.11 sec. (95622.64 ticks)
+Solution status: Feasible
+Objective value: 510.27
+CPLEX solution time: 60.171 seconds
+Weapon assignments:
+Stage 1:
+  Weapon 1 -> Target 49 (VQP: 0.260594)
+  Weapon 2 -> Target 66 (VQP: 0.006002)
+  Weapon 3 -> Target 36 (VQP: 0.00294304)
+  Weapon 6 -> Target 5 (VQP: 0.0330624)
+  Weapon 8 -> Target 25 (VQP: 0.0495968)
+  Weapon 13 -> Target 21 (VQP: 0.035713)
+  Weapon 14 -> Target 40 (VQP: 0.0252415)
+  Weapon 18 -> Target 64 (VQP: 0.0210857)
+  Weapon 23 -> Target 13 (VQP: 0.00521898)
+  Weapon 24 -> Target 30 (VQP: 0.0148154)
+  Weapon 28 -> Target 53 (VQP: 0.00698034)
+  Weapon 29 -> Target 54 (VQP: 0.0180048)
+  Weapon 31 -> Target 38 (VQP: 0.0262377)
+  Weapon 32 -> Target 29 (VQP: 0.0179548)
+  Weapon 33 -> Target 12 (VQP: 0.012595)
+  Weapon 35 -> Target 96 (VQP: 0.0419986)
+  Weapon 37 -> Target 11 (VQP: 0.027929)
+  Weapon 39 -> Target 63 (VQP: 0.0454238)
+  Weapon 40 -> Target 41 (VQP: 0.0839217)
+  Weapon 42 -> Target 22 (VQP: 0.0257964)
+  Weapon 43 -> Target 87 (VQP: 0.0152556)
+  Weapon 44 -> Target 82 (VQP: 0.02229)
+  Weapon 48 -> Target 71 (VQP: 0.0330372)
+  Weapon 50 -> Target 37 (VQP: 0.00879038)
+  Weapon 51 -> Target 55 (VQP: 0.0253201)
+  Weapon 55 -> Target 50 (VQP: 0.00439132)
+  Weapon 57 -> Target 43 (VQP: 0.0918731)
+  Weapon 58 -> Target 32 (VQP: 0.00644206)
+  Weapon 59 -> Target 52 (VQP: 0.0290532)
+  Weapon 64 -> Target 77 (VQP: 0.0318433)
+  Weapon 68 -> Target 91 (VQP: 0.00386336)
+  Weapon 71 -> Target 78 (VQP: 0.00721596)
+  Weapon 73 -> Target 79 (VQP: 0.00495979)
+  Weapon 74 -> Target 75 (VQP: 0.0244374)
+  Weapon 78 -> Target 31 (VQP: 0.0505157)
+  Weapon 88 -> Target 93 (VQP: 0.00855481)
+  Weapon 89 -> Target 48 (VQP: 0.00314666)
+  Weapon 91 -> Target 95 (VQP: 0.00655138)
+  Weapon 95 -> Target 3 (VQP: 0.0691633)
+  Weapon 96 -> Target 68 (VQP: 0.00775371)
+  Weapon 99 -> Target 19 (VQP: 0.0543781)
+  Weapon 100 -> Target 56 (VQP: 0.0164288)
+  Weapon 101 -> Target 85 (VQP: 0.017262)
+  Weapon 103 -> Target 61 (VQP: 0.0242181)
+  Weapon 106 -> Target 65 (VQP: 0.0104364)
+  Weapon 107 -> Target 33 (VQP: 0.0316696)
+  Weapon 108 -> Target 74 (VQP: 0.01399)
+  Weapon 109 -> Target 15 (VQP: 0.00848233)
+  Weapon 110 -> Target 97 (VQP: 0.0478011)
+  Weapon 111 -> Target 2 (VQP: 0.0254787)
+  Weapon 115 -> Target 80 (VQP: 0.00962832)
+  Weapon 116 -> Target 67 (VQP: 0.018931)
+  Weapon 118 -> Target 8 (VQP: 0.00393834)
+  Weapon 122 -> Target 92 (VQP: 0.0116507)
+  Weapon 126 -> Target 100 (VQP: 0.0467277)
+  Weapon 129 -> Target 46 (VQP: 0.0089603)
+  Weapon 137 -> Target 45 (VQP: 0.0281521)
+  Weapon 138 -> Target 24 (VQP: 0.040541)
+  Weapon 140 -> Target 7 (VQP: 0.00430888)
+  Weapon 141 -> Target 44 (VQP: 0.140718)
+  Weapon 144 -> Target 26 (VQP: 0.0588078)
+  Weapon 145 -> Target 88 (VQP: 0.00762639)
+  Weapon 147 -> Target 59 (VQP: 0.0256232)
+  Weapon 149 -> Target 14 (VQP: 0.00732064)
+Stage 2:
+  Weapon 1 -> Target 73 (VQP: 0.00797528)
+  Weapon 2 -> Target 77 (VQP: 0.0339657)
+  Weapon 7 -> Target 55 (VQP: 0.0244876)
+  Weapon 8 -> Target 76 (VQP: 0.0169937)
+  Weapon 10 -> Target 54 (VQP: 0.0228557)
+  Weapon 12 -> Target 8 (VQP: 0.00550245)
+  Weapon 13 -> Target 46 (VQP: 0.0120005)
+  Weapon 14 -> Target 11 (VQP: 0.01908)
+  Weapon 15 -> Target 6 (VQP: 0.0148206)
+  Weapon 16 -> Target 57 (VQP: 0.0300423)
+  Weapon 17 -> Target 49 (VQP: 0.260335)
+  Weapon 21 -> Target 32 (VQP: 0.00450645)
+  Weapon 24 -> Target 74 (VQP: 0.0100746)
+  Weapon 29 -> Target 14 (VQP: 0.00534804)
+  Weapon 30 -> Target 84 (VQP: 0.00843572)
+  Weapon 32 -> Target 98 (VQP: 0.0150261)
+  Weapon 33 -> Target 12 (VQP: 0.0114956)
+  Weapon 34 -> Target 1 (VQP: 0.0201349)
+  Weapon 35 -> Target 81 (VQP: 0.00397303)
+  Weapon 37 -> Target 26 (VQP: 0.0432991)
+  Weapon 40 -> Target 62 (VQP: 0.00490683)
+  Weapon 41 -> Target 43 (VQP: 0.0677034)
+  Weapon 42 -> Target 89 (VQP: 0.0196532)
+  Weapon 43 -> Target 82 (VQP: 0.0284211)
+  Weapon 47 -> Target 18 (VQP: 0.0097101)
+  Weapon 48 -> Target 47 (VQP: 0.0168547)
+  Weapon 49 -> Target 27 (VQP: 0.0679044)
+  Weapon 55 -> Target 15 (VQP: 0.00658812)
+  Weapon 56 -> Target 50 (VQP: 0.00530765)
+  Weapon 57 -> Target 16 (VQP: 0.0563416)
+  Weapon 59 -> Target 86 (VQP: 0.028404)
+  Weapon 62 -> Target 51 (VQP: 0.0328573)
+  Weapon 64 -> Target 35 (VQP: 0.00610261)
+  Weapon 70 -> Target 64 (VQP: 0.0156836)
+  Weapon 71 -> Target 34 (VQP: 0.104392)
+  Weapon 72 -> Target 72 (VQP: 0.00566861)
+  Weapon 73 -> Target 40 (VQP: 0.0290714)
+  Weapon 76 -> Target 65 (VQP: 0.0142398)
+  Weapon 82 -> Target 17 (VQP: 0.0330896)
+  Weapon 83 -> Target 83 (VQP: 0.00901965)
+  Weapon 84 -> Target 95 (VQP: 0.00803566)
+  Weapon 94 -> Target 94 (VQP: 0.0211333)
+  Weapon 96 -> Target 97 (VQP: 0.0705745)
+  Weapon 97 -> Target 69 (VQP: 0.0404683)
+  Weapon 99 -> Target 5 (VQP: 0.0237068)
+  Weapon 100 -> Target 93 (VQP: 0.00655146)
+  Weapon 102 -> Target 2 (VQP: 0.0267762)
+  Weapon 103 -> Target 58 (VQP: 0.0107485)
+  Weapon 105 -> Target 96 (VQP: 0.0499007)
+  Weapon 108 -> Target 79 (VQP: 0.00452687)
+  Weapon 111 -> Target 71 (VQP: 0.023188)
+  Weapon 114 -> Target 25 (VQP: 0.0543008)
+  Weapon 116 -> Target 23 (VQP: 0.200002)
+  Weapon 117 -> Target 91 (VQP: 0.00368092)
+  Weapon 122 -> Target 28 (VQP: 0.00779777)
+  Weapon 125 -> Target 52 (VQP: 0.0405402)
+  Weapon 130 -> Target 90 (VQP: 0.0203251)
+  Weapon 133 -> Target 60 (VQP: 0.0295425)
+  Weapon 136 -> Target 24 (VQP: 0.0332275)
+  Weapon 142 -> Target 88 (VQP: 0.00857621)
+  Weapon 146 -> Target 45 (VQP: 0.0213685)
+  Weapon 147 -> Target 7 (VQP: 0.00333638)
+  Weapon 148 -> Target 21 (VQP: 0.0509401)
+  Weapon 150 -> Target 42 (VQP: 0.00264311)
+Stage 3:
+  Weapon 2 -> Target 83 (VQP: 0.0119616)
+  Weapon 9 -> Target 1 (VQP: 0.0146297)
+  Weapon 14 -> Target 56 (VQP: 0.0172512)
+  Weapon 19 -> Target 29 (VQP: 0.0142183)
+  Weapon 20 -> Target 44 (VQP: 0.121197)
+  Weapon 22 -> Target 59 (VQP: 0.0365733)
+  Weapon 23 -> Target 37 (VQP: 0.00882922)
+  Weapon 29 -> Target 9 (VQP: 0.133378)
+  Weapon 31 -> Target 69 (VQP: 0.0580319)
+  Weapon 32 -> Target 90 (VQP: 0.0176899)
+  Weapon 36 -> Target 36 (VQP: 0.0031539)
+  Weapon 37 -> Target 87 (VQP: 0.012175)
+  Weapon 40 -> Target 41 (VQP: 0.0870939)
+  Weapon 42 -> Target 78 (VQP: 0.00725325)
+  Weapon 43 -> Target 70 (VQP: 0.0413104)
+  Weapon 47 -> Target 16 (VQP: 0.0421194)
+  Weapon 54 -> Target 84 (VQP: 0.0123174)
+  Weapon 56 -> Target 81 (VQP: 0.00383138)
+  Weapon 58 -> Target 4 (VQP: 0.0240719)
+  Weapon 63 -> Target 51 (VQP: 0.0283546)
+  Weapon 64 -> Target 61 (VQP: 0.0165908)
+  Weapon 67 -> Target 19 (VQP: 0.0738913)
+  Weapon 68 -> Target 18 (VQP: 0.00938904)
+  Weapon 73 -> Target 3 (VQP: 0.0469503)
+  Weapon 74 -> Target 62 (VQP: 0.00597946)
+  Weapon 76 -> Target 60 (VQP: 0.025385)
+  Weapon 78 -> Target 17 (VQP: 0.0430607)
+  Weapon 80 -> Target 72 (VQP: 0.00431926)
+  Weapon 84 -> Target 73 (VQP: 0.00581823)
+  Weapon 85 -> Target 35 (VQP: 0.00472615)
+  Weapon 92 -> Target 39 (VQP: 0.0301142)
+  Weapon 95 -> Target 13 (VQP: 0.00560319)
+  Weapon 97 -> Target 76 (VQP: 0.0230519)
+  Weapon 102 -> Target 63 (VQP: 0.0436802)
+  Weapon 112 -> Target 6 (VQP: 0.0218695)
+  Weapon 113 -> Target 38 (VQP: 0.01928)
+  Weapon 115 -> Target 99 (VQP: 0.0217989)
+  Weapon 120 -> Target 85 (VQP: 0.0149273)
+  Weapon 122 -> Target 94 (VQP: 0.0295726)
+  Weapon 125 -> Target 23 (VQP: 0.141246)
+  Weapon 128 -> Target 30 (VQP: 0.0102943)
+  Weapon 131 -> Target 89 (VQP: 0.0261446)
+  Weapon 135 -> Target 98 (VQP: 0.0218241)
+  Weapon 139 -> Target 20 (VQP: 0.0072744)
+  Weapon 140 -> Target 67 (VQP: 0.0277493)
+  Weapon 141 -> Target 100 (VQP: 0.0516786)
+  Weapon 143 -> Target 10 (VQP: 0.0129131)
+  Weapon 145 -> Target 53 (VQP: 0.00755864)
+Stage 4:
+  Weapon 4 -> Target 22 (VQP: 0.0282109)
+  Weapon 18 -> Target 66 (VQP: 0.00463838)
+  Weapon 25 -> Target 58 (VQP: 0.0107043)
+  Weapon 31 -> Target 48 (VQP: 0.0040932)
+  Weapon 33 -> Target 10 (VQP: 0.00936197)
+  Weapon 34 -> Target 31 (VQP: 0.0397278)
+  Weapon 37 -> Target 80 (VQP: 0.0099381)
+  Weapon 42 -> Target 9 (VQP: 0.101199)
+  Weapon 51 -> Target 57 (VQP: 0.0330708)
+  Weapon 53 -> Target 68 (VQP: 0.00645909)
+  Weapon 60 -> Target 99 (VQP: 0.0309489)
+  Weapon 61 -> Target 27 (VQP: 0.0602754)
+  Weapon 75 -> Target 34 (VQP: 0.113231)
+  Weapon 89 -> Target 75 (VQP: 0.0262345)
+  Weapon 93 -> Target 92 (VQP: 0.011605)
+  Weapon 94 -> Target 86 (VQP: 0.022517)
+  Weapon 102 -> Target 4 (VQP: 0.0179808)
+  Weapon 103 -> Target 42 (VQP: 0.00204761)
+  Weapon 108 -> Target 70 (VQP: 0.0462808)
+  Weapon 125 -> Target 39 (VQP: 0.0418974)
+  Weapon 127 -> Target 28 (VQP: 0.00881894)
+  Weapon 129 -> Target 47 (VQP: 0.0160051)
+  Weapon 135 -> Target 33 (VQP: 0.0282973)
+  Weapon 138 -> Target 20 (VQP: 0.00942334)
+
+Expected total value of surviving assets: 507.71 out of 513.585 (98.8561%)
