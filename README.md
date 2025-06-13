@@ -31,5 +31,5 @@ Główny plik źródłowy programu. Zawiera implementację algorytmu heurystyczn
 ### opis.md
 Szczegółowy opis projektu, jego funkcjonalności, architektury oraz wyników eksperymentów.
 
-### An_Efficient_Rule-Based_Constructive_Heuristic_to_Solve_Dynamic_Weapon-Target_Assignment_Problem.pdf
-Dokument PDF zawierający opis problemu DWTA oraz analizę podejścia heurystycznego.
+### Artykuł
+Artykuł na bazie którego został wykonany projekt: https://www.researchgate.net/publication/224203320_An_Efficient_Rule-Based_Constructive_Heuristic_to_Solve_Dynamic_Weapon-Target_Assignment_Problem
